@@ -5,6 +5,8 @@
     background: #735bf2;
     color: #fff;
 
+
+
     border-radius: 10px;
     margin-bottom: 20px;
 
@@ -14,9 +16,14 @@
     justify-content: space-between;
     padding: 24px;
 
-
 }
 
 .card strong {
     font-size: 18px;
+    background: #735bf2;
+}
+
+.card smal {
+    font-size: 12px;
+    background: #735bf2;
 }

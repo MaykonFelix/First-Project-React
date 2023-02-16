@@ -6,7 +6,7 @@ First Projetc ReactJS
 </h1>
 
 <p align="center">
-<img width="400" height="240" src="/assests/animationList.gif">
+<img width="400" height="300" src="/assests/animationList.gif">
 </p>
 
 
